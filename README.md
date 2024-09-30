@@ -19,18 +19,18 @@ The application uses simple text-based input and is designed to run in a console
 ### Run Locally
 
 1. Clone the repo
-2. Install necessary packages
+2. Compile the Java Files In the terminal
    ```sh
-   pip install -r requirements.txt
+   javac Main.java Task.java TaskManager.java
    ```
-4. Run streamlit_app.py 
+3. Run the Program 
    ```js
-   streamlit run streamlit_app.py
+   java Main
    ```
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- DEMO -->
+## Demo
 
 ![Demo project](resources/Demo.gif)
