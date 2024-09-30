@@ -33,4 +33,4 @@ The application uses simple text-based input and is designed to run in a console
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-![Demo project](resources/view_gif.gif)
+![Demo project](resources/Demo.gif)
